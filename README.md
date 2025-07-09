@@ -213,6 +213,7 @@ It aims to build a modern movie recommendation system using content-based filter
 | Nguyen Manh Thinh     | BERT integration, vector fusion, search logic       |
 
 **Instructor:** Dr. Hoang Nguyen Vu
+
 **Institution:** University of Economics - University of Danang
 
 ---
