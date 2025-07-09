@@ -103,6 +103,12 @@ It aims to build a modern movie recommendation system using content-based filter
 * Lightweight demo on Streamlit.io
 * 🌐 **Live demo**: [https://imdb-movies-dashboard-recommender.streamlit.app](https://imdb-movies-dashboard-recommender.streamlit.app)
 
+<p align="center">
+  <img src="images/app_interface_combined.png" width="750"/>
+  <br/>
+  <em>Unified Recommender Web App (Google Cloud Run & Streamlit)</em>
+</p>
+
 ---
 
 ## 📊 Visual Dashboard
@@ -112,9 +118,27 @@ It aims to build a modern movie recommendation system using content-based filter
 * 🌈 Python (Seaborn & Matplotlib): Supplementary analytics
 
 <p align="center">
-  <img src="images/dashboard_preview.png" width="750"/>
+  <img src="images/dashboard_powerbi_1.png" width="750"/>
   <br/>
-  <em>Dashboard Preview (Power BI)</em>
+  <em>Power BI Dashboard – Average Ratings by Genre</em>
+</p>
+
+<p align="center">
+  <img src="images/dashboard_powerbi_2.png" width="750"/>
+  <br/>
+  <em>Power BI Dashboard – Duration & Popularity Insights</em>
+</p>
+
+<p align="center">
+  <img src="images/dashboard_streamlit_1.png" width="750"/>
+  <br/>
+  <em>Streamlit Dashboard – Genre & Actor Filters</em>
+</p>
+
+<p align="center">
+  <img src="images/dashboard_streamlit_2.png" width="750"/>
+  <br/>
+  <em>Streamlit Dashboard – Year Filter & Ratings Summary</em>
 </p>
 
 ---
